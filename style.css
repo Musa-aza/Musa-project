@@ -155,7 +155,6 @@ html{
   position: relative;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 19px;
-  background-color: black;
 }
 #Chapter-three{
   .bot{
@@ -175,4 +174,7 @@ html{
 }
 .yup{
   color: lightgreen;
+}
+.white{
+  color: whitesmoke;
 }
